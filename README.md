@@ -1,4 +1,4 @@
-<h2 align="left">Welcome to Félix Caba's official GitHub. Check my statistics! :)</h2>
+<h2 align="left">Welcome to Félix Caba's official GitHub.</h2>
 
 ###
 <p align="center">My stack:</p>
