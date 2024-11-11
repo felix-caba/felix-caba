@@ -1,6 +1,7 @@
 <h2 align="left">Welcome to Félix Caba's official GitHub. Check my statistics! :)</h2>
 
 ###
+<p align="center">My stack:</p>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo"  />
@@ -25,6 +26,8 @@
 </div>
 
 ###
+
+<p align="center">Stats:</p>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=felix-caba&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nord&locale=en&hide_border=true" height="150" alt="stats graph"  />
