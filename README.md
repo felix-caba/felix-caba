@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@cosmites , @xiilef25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@cosmites , @xiilef25" height="30" width="40" /></a>
+<a href="https://twitter.com/@cosmites , @xiilef25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@cosmites" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/www.linkedin.com/in/felix-caba-martin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/felix-caba-martin" height="30" width="40" /></a>
 <a href="https://instagram.com/@cosmit.es , @feeliix7_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@cosmit.es , @feeliix7_" height="30" width="40" /></a>
 </p>
