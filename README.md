@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=felix-caba" alt="felix-caba" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@cosmites" target="blank"><img src="https://img.shields.io/twitter/follow/@cosmites , @xiilef25?logo=twitter&style=for-the-badge" alt="@cosmites" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@cosmites" target="blank"><img src="https://img.shields.io/twitter/follow/@cosmites" alt="@cosmites" /></a> </p>
 
 - 🔭 I’m currently working on [NetSpider](https://github.com/CASTELLON13/NetSpider/tree/master)
 
